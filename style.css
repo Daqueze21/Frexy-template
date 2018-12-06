@@ -292,7 +292,7 @@ aside {grid-area: aside;
 /*main section*/
 main{
       grid-area: contents;
-      background: PaleTurquoise;    
+         
 }
 .main_header{
       display: flex;
